@@ -1,6 +1,5 @@
 #!/bin/bash
-
-# Input from user
+#input from the user
 echo "Enter the Character -"
 read ch
 
